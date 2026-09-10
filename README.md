@@ -2,7 +2,8 @@
 ![logo](https://github.com/Alok-30/Alok-30/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Alok Maurya</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif>
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/8e89cdd6-d800-4017-89b2-eee69d1b77b9" />
+
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1mQSDlJ4L_H0Ua0d15V-Ygnw5s64IST9h/view?usp=sharing](https://drive.google.com/file/d/1mQSDlJ4L_H0Ua0d15V-Ygnw5s64IST9h/view?usp=sharing)
 
